@@ -1,4 +1,4 @@
-# AdventureWorks-Data-Analysis-Project
+# AdventureWorks Data Analysis Project
 
 BRIEF:
 This project is implemented as a learning initiative to practice PowerBI in creating a dashboard. The database used for this report is based on AdventureWorks, a global manufacturing company that produces cycling equipment and accessories.
