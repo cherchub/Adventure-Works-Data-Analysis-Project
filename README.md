@@ -22,4 +22,4 @@ The Region has to be set to English (United States) for currency and date time r
 The rest of the environment is configured to default settings.
 
 References:
-([Microsoft Power BI Desktop for Business Intelligence (2023)](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
+[Microsoft Power BI Desktop for Business Intelligence (2023)](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
