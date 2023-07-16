@@ -1,8 +1,10 @@
 # AdventureWorks Data Analysis Project
 
 Brief:
+```
 This project is implemented as a learning initiative to practice PowerBI in creating a dashboard. The database used for this report is based on AdventureWorks, a fictional global manufacturing company that produces cycling equipment and accessories.
 The goal is to track KPIs, compare regional performance, analyze product level trends and identify high value customers.
+```
 
 Why PowerBI?
 Power BI provides interactive and visually appealing dashboards and reports to help you easily analyze and understand data.
