@@ -18,7 +18,7 @@ Build an interactive dashboard to visualize the data
 
 ## How to Install and Run the Project:
 PowerBI Desktop needs to be be installed in order to run this project.
-The Region has to be set to English (United States) for currency and date time requiements.
+The Region has to be set to English (United States) for currency and date time requiements of the original database.
 The rest of the environment is configured to default settings.
 
 ## References:
