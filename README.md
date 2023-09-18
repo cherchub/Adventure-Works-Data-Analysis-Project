@@ -21,7 +21,7 @@ PowerBI Desktop needs to be be installed in order to run this project.
 The Region has to be set to English (United States) for currency and date time requiements of the original database.
 The rest of the environment is configured to default settings.
 
-Dashboard Snapshot: 
+## Dashboard Snapshot: 
 ![Dashboard_Screen_Shot](https://github.com/fernandes-cheryl/AdventureWorks-Data-Analysis-Project/assets/100081376/c7534195-0644-40c9-982f-856d274fb3c4)
 
 
